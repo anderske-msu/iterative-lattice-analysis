@@ -29,3 +29,5 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/anderske-msu/iterative-lattice-analysis"
 "Bug Tracker" = "https://github.com/anderske-msu/iterative-lattice-analysis/issues"
+
+# TODO Improve README.md with better instructions
